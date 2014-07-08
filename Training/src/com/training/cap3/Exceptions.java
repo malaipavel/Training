@@ -27,7 +27,6 @@ public class Exceptions {
 		stack.remove();
 	}
 
-
 	public static void readFile(String filename){
 
 		FileReader fr = null;

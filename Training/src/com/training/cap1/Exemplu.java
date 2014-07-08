@@ -2,7 +2,8 @@ package com.training.cap1;
 
 import java.util.Arrays;
 
-public class Exemplu {
+public class
+        Exemplu {
 
 
 	// 1.5.1
