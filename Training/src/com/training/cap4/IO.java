@@ -26,12 +26,12 @@ public class IO{
 
 
 	public static void main(String[] args) throws IOException{
-		//metoda1();
-		//metoda2();
-		//metoda3();
-		//metoda4();
-		//metoda5();
-		//metoda6();
+		metoda1();
+		metoda2();
+		metoda3();
+		metoda4();
+		metoda5();
+		metoda6();
 		
 		File[] files = new File(".").listFiles();
 		for(File file: files){

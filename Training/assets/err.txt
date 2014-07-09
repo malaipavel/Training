@@ -1,4 +1,4 @@
 ma aflu in fisierul err.txt
 java.io.IOException: Exceptie test
-	at com.training.cap4.IO.metoda5(IO.java:160)
-	at com.training.cap4.IO.main(IO.java:32)
+	at com.training.cap4.IO.metoda5(IO.java:167)
+	at com.training.cap4.IO.main(IO.java:33)
