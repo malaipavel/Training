@@ -10,8 +10,8 @@ import java.sql.Statement;
 import com.mysql.jdbc.PreparedStatement;
 
 /*
- * Disclaimer : Nu am realizat acelasi model acel din link intentionat - http://ftp.nchu.edu.tw/MySQL/tech-resources/articles/intro-to-normalization.html 
- * Aveam aceiasi idee de la inceput, dar dupa ce am descoperit asta, m-am condus dupa modelul de acolo.
+ * Disclaimer : Nu am realizat acelasi model ca acel de aici intentionat - http://ftp.nchu.edu.tw/MySQL/tech-resources/articles/intro-to-normalization.html 
+ * Aveam cam aceiasi idee de la inceput, insa dupa ce am descoperit asta, m-am condus dupa modelul de acolo.
  */
 
 /** A class that manages operations with a MySQL database */
